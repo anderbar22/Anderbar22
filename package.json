@@ -1,0 +1,14 @@
+{
+  "name": "yaclick-marketplace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Yaclick marketplace foundation for live commerce with Netlify and Supabase",
+  "scripts": {
+    "dev": "npx netlify dev",
+    "build": "echo \"No build step required\"",
+    "test": "node -e \"console.log('No tests configured')\""
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.55.0"
+  }
+}
